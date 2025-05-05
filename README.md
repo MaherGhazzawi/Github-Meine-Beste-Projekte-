@@ -54,6 +54,7 @@ def encrypt_caesar(text, shift):
  `char.isalpha()` prüft, ob es sich um einen Buchstaben handelt.
  `ord()` gibt den ASCII-Wert, `chr()` wandelt zurück.
  `% 26` sorgt dafür, dass die Rotation im Alphabet bleibt.
+ 
  4.Ich habe eine andere Website entwickelt und meine Kenntnise im SCSS vertieft : 
  Zur code : https://github.com/MaherGhazzawi/Resto-Website-SCSS/blob/main/index.html
  
