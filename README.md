@@ -54,13 +54,13 @@ def encrypt_caesar(text, shift):
  `char.isalpha()` prüft, ob es sich um einen Buchstaben handelt.
  `ord()` gibt den ASCII-Wert, `chr()` wandelt zurück.
  `% 26` sorgt dafür, dass die Rotation im Alphabet bleibt.
- 
- 4.Ich habe eine andere Website entwickelt und meine Kenntnise im SCSS vertieft : 
- Zur code : https://github.com/MaherGhazzawi/Resto-Website-SCSS/blob/main/index.html
- 
-
 Zur Code : https://github.com/MaherGhazzawi/Caeser-Code/blob/main/cipher_scroll_caesar.py
 
+ 4.Ich habe eine andere Website entwickelt und meine Kenntnise im SCSS vertieft : 
+ Zur code : https://github.com/MaherGhazzawi/Resto-Website-SCSS/blob/main/index.html
+
+ 5. Hier habe ich die Grundlagen von Programmierschprache im Javascript gelernt wie : var, funktion,console.log, let und const....
+ 6. Zur Code : https://github.com/MaherGhazzawi/Javascript/blob/main/index.js
 
 
     
